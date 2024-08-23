@@ -1,20 +1,20 @@
-aws deepracer º¸»óÇÔ¼ö 
-Â÷
-Ä«¸Þ¶ó , ½ºÅ×·¹¿À Ä«¸Þ¶ó , ¶óÀÌ´õ ¼¾¼­ 3°³Áß ¼±ÅÃ
-¿ì¸®´Â Ä«¸Þ¶û¶û ¶óÀÌ´õ¼¾¼­ ÀÖ´Â °Å ¼±ÅÃ
-front-facing camera ¾Õ¿¡ »ç¹° 1step´ç 1ÃÊ¿¡ 15¹ø »çÁø
-½ºÅ×·¹¿À Ä«¸Þ¶ó  »ç¹° ÀÎ½Ä±îÁö
-¶óÀÌ´õ ¼¾¼­ µÚ ÂÊ »ç¹° ÀÎ½Ä
+aws deepracer ë³´ìƒí•¨ìˆ˜ 
+ì°¨
+ì¹´ë©”ë¼ , ìŠ¤í…Œë ˆì˜¤ ì¹´ë©”ë¼ , ë¼ì´ë” ì„¼ì„œ 3ê°œì¤‘ ì„ íƒ
+ìš°ë¦¬ëŠ” ì¹´ë©”ëž‘ëž‘ ë¼ì´ë”ì„¼ì„œ ìžˆëŠ” ê±° ì„ íƒ
+front-facing camera ì•žì— ì‚¬ë¬¼ 1stepë‹¹ 1ì´ˆì— 15ë²ˆ ì‚¬ì§„
+ìŠ¤í…Œë ˆì˜¤ ì¹´ë©”ë¼  ì‚¬ë¬¼ ì¸ì‹ê¹Œì§€
+ë¼ì´ë” ì„¼ì„œ ë’¤ ìª½ ì‚¬ë¬¼ ì¸ì‹
 
-º¸»óÇÔ¼ö ÃÊÁ¡ 
-ÄÚ³Ê¸¦ µ¹ ¶§ ¿ÞÂÊÀ¸·Î¸¸ °¡°Ô²û º¸»óÇÔ¼ö¸¦ ³ô¿´À½
-evaluaton À» º¸¸é ½ÇÁ¦·Î Â÷°¡ Æ®ÅÃ Áß¾Ó ±âÁØ ¿Þ ÂÊÀ¸·Î °¡´Â°Ô º¸ÀÓSpeed: [ 0.65 : 1.9 ] m/s
-Steering angle: [ -30 : 30 ] ¡Æ
-ÇÏÀÌÆÛ ÆÄ¶ó¹ÌÅÍ Áß
-Learning rate ´Â 0.0003 ÀÌ ±âº»°ªÀÌÁö¸¸ 0.0001·Î ¼³Á¤
-Discount factor	0.999 ±âº» 0.9·Î ¼³Á¤
-³ª¸ÓÁö´Â ´Ù ±âº»°ª
-progress 0~100% 100% °¡ µÇ¸é
+ë³´ìƒí•¨ìˆ˜ ì´ˆì  
+ì½”ë„ˆë¥¼ ëŒ ë•Œ ì™¼ìª½ìœ¼ë¡œë§Œ ê°€ê²Œë” ë³´ìƒí•¨ìˆ˜ë¥¼ ë†’ì˜€ìŒ
+evaluaton ì„ ë³´ë©´ ì‹¤ì œë¡œ ì°¨ê°€ íŠ¸íƒ ì¤‘ì•™ ê¸°ì¤€ ì™¼ ìª½ìœ¼ë¡œ ê°€ëŠ”ê²Œ ë³´ìž„Speed: [ 0.65 : 1.9 ] m/s
+Steering angle: [ -30 : 30 ] Â°
+í•˜ì´í¼ íŒŒë¼ë¯¸í„° ì¤‘
+Learning rate ëŠ” 0.0003 ì´ ê¸°ë³¸ê°’ì´ì§€ë§Œ 0.0001ë¡œ ì„¤ì •
+Discount factor	0.999 ê¸°ë³¸ 0.9ë¡œ ì„¤ì •
+ë‚˜ë¨¸ì§€ëŠ” ë‹¤ ê¸°ë³¸ê°’
+progress 0~100% 100% ê°€ ë˜ë©´
 **********************************************************************************
 import math
 
